@@ -1,0 +1,80 @@
+
+
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.container{
+    color: bisque;
+}
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    letter-spacing: 5px;
+    color:bisque
+}
+.navbar-header{
+     text-align: right;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+.navbar-brand{
+    font-size: 50px;
+    color:bisque
+}
+
+
+p{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+    color: cadetblue;
+}
+
+h1,h4{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+}
+.form-label{
+    font-size: 20px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-style: italic;
+     color: cadetblue;
+}
+.btn,btn-primary rounded-pill px-3{
+    background-color: gray;
+    border-color: gray;
+    
+    
+}
+.btn:hover{
+    background-color: cadetblue;
+    border-color: cadetblue;
+}
+
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;   /* Height of the footer */
+
+ }
+ .comp{
+    background-color: cadetblue;
+    color: white;
+    border-radius: 100%;
+    font-size: 20px;
+    padding: 10px;
+    border-color:blue;
+ }
+ .com{
+    float: right;
+ }
